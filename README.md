@@ -1,4 +1,4 @@
-# Marathon Project Overview
+# Project 1: Marathon Data Analysis
 Explored a marathon dataset from Kaggle to understand athlete statistics and race outcomes. Cleaned, processed, and visualized the data to answer key questions about the marathon. Used Python and Google Colab for seamless cloud-based development.
 
 # Key Features
