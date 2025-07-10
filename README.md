@@ -27,3 +27,51 @@ numpy: Numerical operations.
 - description of project and the project itself is on Google Colab
      - https://colab.research.google.com/drive/13Y2Y5ixTF10vcFUxR-9E7DCQU1f39mAB#scrollTo=YYxg_USbk-Sl
        
+# Project 3: 🦠 COVID-19 Data Analysis with Python
+
+This project uses Python and data analysis tools to explore and visualize COVID-19 trends worldwide. It leverages pandas, matplotlib, and seaborn to clean, process, and display data from the pandemic.
+
+## 📌 Project Overview
+
+The notebook analyzes COVID-19 data by:
+
+- Loading and cleaning real-world COVID-19 datasets
+- Calculating total confirmed cases, deaths, and recoveries
+- Analyzing case trends by country
+- Creating visualizations (line plots, bar graphs, etc.)
+- Identifying insights and patterns in the data
+
+## 🧰 Tools & Libraries Used
+
+- Python (Jupyter Notebook)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 📊 Visualizations
+
+Key visualizations include:
+
+- Line graphs showing the spread of COVID-19 over time
+- Bar charts comparing country-wise case and death totals
+- Heatmaps to show case distribution
+
+### 📈 Tableau Dashboard
+
+Explore the live, interactive dashboard here:  
+🔗 [COVID-19 Tableau Dashboard](https://public.tableau.com/app/profile/umar.ahmed3812/viz/covid19data_17521875752040/Dashboard1?publish=yes)
+
+This dashboard allows users to filter by country and compare confirmed cases, recoveries, and deaths across regions.
+
+## 📁 Files
+
+- `covidDataAnalysis.ipynb`: Main Jupyter notebook with code, visuals, and analysis
+- `README.md`: Project documentation (this file)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/covid-data-analysis.git
+   cd covid-data-analysis
