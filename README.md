@@ -75,3 +75,6 @@ This dashboard allows users to filter by country and compare confirmed cases, re
    ```bash
    git clone https://github.com/yourusername/covid-data-analysis.git
    cd covid-data-analysis
+
+2. Open the notebook in terminal: jupyter notebook covidDataAnalysis.ipynb
+
